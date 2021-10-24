@@ -55,7 +55,7 @@ NTU CMOS Biotechnology Lab](https://sites.google.com/site/cmosbiotechnology/home
 
   * The study used **AMD GPU(RX570)** to train the model, 
   
-    but the setting is complicated, hence, it's recommended to use CPU or Nvidia GPU.
+    but the setting is complicated, hence, it's recommended to use CPU or NVIDIA GPU.
     
   * The following is a tutorial using **AMD GPU** to train the model :
   
